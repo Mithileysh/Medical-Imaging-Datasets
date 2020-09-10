@@ -1,5 +1,8 @@
-# medical-imaging-datasets
+# Medical Imaging Datasets
 
+* KAGGLE. Source : https://www.kaggle.com/datasets
+* Standford. Source : http://langlotzlab.stanford.edu/imaging-datasets/
+* Aylward. Source : http://www.aylward.org/notes/open-access-medical-image-repositories
 * A list of Medical imaging datasets. Source : https://sites.google.com/site/aacruzr/image-datasets
 * An additional, possibly overlapping list can be found at : https://github.com/beamandrew/medical-data
 
